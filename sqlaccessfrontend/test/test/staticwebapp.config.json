@@ -1,0 +1,10 @@
+{
+	
+	"routes": [
+    
+	{
+  "route": "/v3*",
+  "rewrite": "/index.html"
+}]
+
+}

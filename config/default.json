@@ -1,0 +1,19 @@
+{
+    "app": {
+        "port": 5000
+    },
+    "db": {
+        "server": "",
+        "username": "",
+        "password": ""
+    },
+    "databasename":{
+        "db":"Cloudops"
+    },
+    "dbCloudops": {
+        "serverco": "X.X.X.X",
+        "usernameco": "",
+        "passwordco": ""
+    }
+    
+}
